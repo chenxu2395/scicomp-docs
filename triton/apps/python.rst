@@ -65,8 +65,8 @@ Quickstart
 Use ``module load anaconda`` (or ``module load anaconda2`` for Python 2) to get a
 modern Python.
 
-If you have simple needs, use :ref:`pip install --user
-<pip-install-user>` to install packages.  For complex needs, use
+If you have simple needs, use :ref:``pip install --user
+<pip-install-user>`` to install packages.  For complex needs, use
 :ref:`anaconda + conda environments <conda>` to isolate your
 projects.
 
